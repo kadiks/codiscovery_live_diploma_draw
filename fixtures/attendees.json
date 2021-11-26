@@ -1,10 +1,10 @@
 [
   {
     "name": "Jénaïc",
-    "totalRSVP": 3
+    "attended": 3
   },
   {
     "name": "Cody",
-    "totalRSVP": 23
+    "attended": 23
   }
 ]
