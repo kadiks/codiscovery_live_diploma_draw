@@ -14,7 +14,7 @@ const drawDiploma = ({ name, reason, position }) =>
     }
 
     const output = fs.createWriteStream(
-      path.join(__dirname, `../output/diploma_${cleanPosition}.pdf`)
+      path.join(__dirname, `../output/diploma_${cleanPosition}.jpg`)
     )
     const logoPath = path.join(__dirname, "../fixtures/logo.png")
 
